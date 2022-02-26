@@ -1,0 +1,13 @@
+C:\Users\brian\OneDrive\Escritorio\Teto\Programación\Proyectos-Csharp\Entrada, Salida\bin\Debug\netcoreapp3.1\Entrada, Salida.exe
+C:\Users\brian\OneDrive\Escritorio\Teto\Programación\Proyectos-Csharp\Entrada, Salida\bin\Debug\netcoreapp3.1\Entrada, Salida.deps.json
+C:\Users\brian\OneDrive\Escritorio\Teto\Programación\Proyectos-Csharp\Entrada, Salida\bin\Debug\netcoreapp3.1\Entrada, Salida.runtimeconfig.json
+C:\Users\brian\OneDrive\Escritorio\Teto\Programación\Proyectos-Csharp\Entrada, Salida\bin\Debug\netcoreapp3.1\Entrada, Salida.runtimeconfig.dev.json
+C:\Users\brian\OneDrive\Escritorio\Teto\Programación\Proyectos-Csharp\Entrada, Salida\bin\Debug\netcoreapp3.1\Entrada, Salida.dll
+C:\Users\brian\OneDrive\Escritorio\Teto\Programación\Proyectos-Csharp\Entrada, Salida\bin\Debug\netcoreapp3.1\Entrada, Salida.pdb
+C:\Users\brian\OneDrive\Escritorio\Teto\Programación\Proyectos-Csharp\Entrada, Salida\obj\Debug\netcoreapp3.1\Entrada, Salida.csprojAssemblyReference.cache
+C:\Users\brian\OneDrive\Escritorio\Teto\Programación\Proyectos-Csharp\Entrada, Salida\obj\Debug\netcoreapp3.1\Entrada, Salida.AssemblyInfoInputs.cache
+C:\Users\brian\OneDrive\Escritorio\Teto\Programación\Proyectos-Csharp\Entrada, Salida\obj\Debug\netcoreapp3.1\Entrada, Salida.AssemblyInfo.cs
+C:\Users\brian\OneDrive\Escritorio\Teto\Programación\Proyectos-Csharp\Entrada, Salida\obj\Debug\netcoreapp3.1\Entrada, Salida.csproj.CoreCompileInputs.cache
+C:\Users\brian\OneDrive\Escritorio\Teto\Programación\Proyectos-Csharp\Entrada, Salida\obj\Debug\netcoreapp3.1\Entrada, Salida.dll
+C:\Users\brian\OneDrive\Escritorio\Teto\Programación\Proyectos-Csharp\Entrada, Salida\obj\Debug\netcoreapp3.1\Entrada, Salida.pdb
+C:\Users\brian\OneDrive\Escritorio\Teto\Programación\Proyectos-Csharp\Entrada, Salida\obj\Debug\netcoreapp3.1\Entrada, Salida.genruntimeconfig.cache

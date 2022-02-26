@@ -1,0 +1,13 @@
+C:\Users\brian\OneDrive\Escritorio\Teto\Programación\Proyectos-Csharp\Condiciones\bin\Debug\netcoreapp3.1\Condiciones.exe
+C:\Users\brian\OneDrive\Escritorio\Teto\Programación\Proyectos-Csharp\Condiciones\bin\Debug\netcoreapp3.1\Condiciones.deps.json
+C:\Users\brian\OneDrive\Escritorio\Teto\Programación\Proyectos-Csharp\Condiciones\bin\Debug\netcoreapp3.1\Condiciones.runtimeconfig.json
+C:\Users\brian\OneDrive\Escritorio\Teto\Programación\Proyectos-Csharp\Condiciones\bin\Debug\netcoreapp3.1\Condiciones.runtimeconfig.dev.json
+C:\Users\brian\OneDrive\Escritorio\Teto\Programación\Proyectos-Csharp\Condiciones\bin\Debug\netcoreapp3.1\Condiciones.dll
+C:\Users\brian\OneDrive\Escritorio\Teto\Programación\Proyectos-Csharp\Condiciones\bin\Debug\netcoreapp3.1\Condiciones.pdb
+C:\Users\brian\OneDrive\Escritorio\Teto\Programación\Proyectos-Csharp\Condiciones\obj\Debug\netcoreapp3.1\Condiciones.csprojAssemblyReference.cache
+C:\Users\brian\OneDrive\Escritorio\Teto\Programación\Proyectos-Csharp\Condiciones\obj\Debug\netcoreapp3.1\Condiciones.AssemblyInfoInputs.cache
+C:\Users\brian\OneDrive\Escritorio\Teto\Programación\Proyectos-Csharp\Condiciones\obj\Debug\netcoreapp3.1\Condiciones.AssemblyInfo.cs
+C:\Users\brian\OneDrive\Escritorio\Teto\Programación\Proyectos-Csharp\Condiciones\obj\Debug\netcoreapp3.1\Condiciones.csproj.CoreCompileInputs.cache
+C:\Users\brian\OneDrive\Escritorio\Teto\Programación\Proyectos-Csharp\Condiciones\obj\Debug\netcoreapp3.1\Condiciones.dll
+C:\Users\brian\OneDrive\Escritorio\Teto\Programación\Proyectos-Csharp\Condiciones\obj\Debug\netcoreapp3.1\Condiciones.pdb
+C:\Users\brian\OneDrive\Escritorio\Teto\Programación\Proyectos-Csharp\Condiciones\obj\Debug\netcoreapp3.1\Condiciones.genruntimeconfig.cache

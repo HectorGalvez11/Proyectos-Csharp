@@ -1,0 +1,13 @@
+C:\Users\brian\OneDrive\Escritorio\Teto\Programación\Proyectos-Csharp\Using\obj\Debug\netcoreapp3.1\Using.csprojAssemblyReference.cache
+C:\Users\brian\OneDrive\Escritorio\Teto\Programación\Proyectos-Csharp\Using\obj\Debug\netcoreapp3.1\Using.AssemblyInfoInputs.cache
+C:\Users\brian\OneDrive\Escritorio\Teto\Programación\Proyectos-Csharp\Using\obj\Debug\netcoreapp3.1\Using.AssemblyInfo.cs
+C:\Users\brian\OneDrive\Escritorio\Teto\Programación\Proyectos-Csharp\Using\obj\Debug\netcoreapp3.1\Using.csproj.CoreCompileInputs.cache
+C:\Users\brian\OneDrive\Escritorio\Teto\Programación\Proyectos-Csharp\Using\bin\Debug\netcoreapp3.1\Using.exe
+C:\Users\brian\OneDrive\Escritorio\Teto\Programación\Proyectos-Csharp\Using\bin\Debug\netcoreapp3.1\Using.deps.json
+C:\Users\brian\OneDrive\Escritorio\Teto\Programación\Proyectos-Csharp\Using\bin\Debug\netcoreapp3.1\Using.runtimeconfig.json
+C:\Users\brian\OneDrive\Escritorio\Teto\Programación\Proyectos-Csharp\Using\bin\Debug\netcoreapp3.1\Using.runtimeconfig.dev.json
+C:\Users\brian\OneDrive\Escritorio\Teto\Programación\Proyectos-Csharp\Using\bin\Debug\netcoreapp3.1\Using.dll
+C:\Users\brian\OneDrive\Escritorio\Teto\Programación\Proyectos-Csharp\Using\bin\Debug\netcoreapp3.1\Using.pdb
+C:\Users\brian\OneDrive\Escritorio\Teto\Programación\Proyectos-Csharp\Using\obj\Debug\netcoreapp3.1\Using.dll
+C:\Users\brian\OneDrive\Escritorio\Teto\Programación\Proyectos-Csharp\Using\obj\Debug\netcoreapp3.1\Using.pdb
+C:\Users\brian\OneDrive\Escritorio\Teto\Programación\Proyectos-Csharp\Using\obj\Debug\netcoreapp3.1\Using.genruntimeconfig.cache

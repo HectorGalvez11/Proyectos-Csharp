@@ -1,0 +1,13 @@
+C:\Users\brian\OneDrive\Escritorio\Teto\Programación\Proyectos-Csharp\TiposDeDatos\bin\Debug\netcoreapp3.1\TiposDeDatos.exe
+C:\Users\brian\OneDrive\Escritorio\Teto\Programación\Proyectos-Csharp\TiposDeDatos\bin\Debug\netcoreapp3.1\TiposDeDatos.deps.json
+C:\Users\brian\OneDrive\Escritorio\Teto\Programación\Proyectos-Csharp\TiposDeDatos\bin\Debug\netcoreapp3.1\TiposDeDatos.runtimeconfig.json
+C:\Users\brian\OneDrive\Escritorio\Teto\Programación\Proyectos-Csharp\TiposDeDatos\bin\Debug\netcoreapp3.1\TiposDeDatos.runtimeconfig.dev.json
+C:\Users\brian\OneDrive\Escritorio\Teto\Programación\Proyectos-Csharp\TiposDeDatos\bin\Debug\netcoreapp3.1\TiposDeDatos.dll
+C:\Users\brian\OneDrive\Escritorio\Teto\Programación\Proyectos-Csharp\TiposDeDatos\bin\Debug\netcoreapp3.1\TiposDeDatos.pdb
+C:\Users\brian\OneDrive\Escritorio\Teto\Programación\Proyectos-Csharp\TiposDeDatos\obj\Debug\netcoreapp3.1\TiposDeDatos.csprojAssemblyReference.cache
+C:\Users\brian\OneDrive\Escritorio\Teto\Programación\Proyectos-Csharp\TiposDeDatos\obj\Debug\netcoreapp3.1\TiposDeDatos.AssemblyInfoInputs.cache
+C:\Users\brian\OneDrive\Escritorio\Teto\Programación\Proyectos-Csharp\TiposDeDatos\obj\Debug\netcoreapp3.1\TiposDeDatos.AssemblyInfo.cs
+C:\Users\brian\OneDrive\Escritorio\Teto\Programación\Proyectos-Csharp\TiposDeDatos\obj\Debug\netcoreapp3.1\TiposDeDatos.csproj.CoreCompileInputs.cache
+C:\Users\brian\OneDrive\Escritorio\Teto\Programación\Proyectos-Csharp\TiposDeDatos\obj\Debug\netcoreapp3.1\TiposDeDatos.dll
+C:\Users\brian\OneDrive\Escritorio\Teto\Programación\Proyectos-Csharp\TiposDeDatos\obj\Debug\netcoreapp3.1\TiposDeDatos.pdb
+C:\Users\brian\OneDrive\Escritorio\Teto\Programación\Proyectos-Csharp\TiposDeDatos\obj\Debug\netcoreapp3.1\TiposDeDatos.genruntimeconfig.cache
